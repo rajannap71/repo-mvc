@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 
 //comment for test
+//comment for testing pull
 //@CrossOrigin(origins = "*", allowedHeaders = "*")
 @Controller
 public class HomeController 
